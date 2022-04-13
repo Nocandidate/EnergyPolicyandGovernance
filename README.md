@@ -1,2 +1,2 @@
 # EnergyPolicyandGovernance
-Please, click on 'Create ExcelCalculations' to see the calculation made. 
+Please, click on 'Create ExcelCalculations' to see the calculations made. 
